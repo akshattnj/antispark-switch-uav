@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "Anti-Spark-Switch-rescue")(type "Legacy")(uri "${KIPRJMOD}/Anti-Spark-Switch-rescue.lib")(options "")(descr ""))
+)
